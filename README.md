@@ -6,7 +6,7 @@ CodeGig allows users to post, browse, and manage coding gigs.
 ---
 
 ## 📂 Project Structure
-```plaintext
+
 ├── config/          # Configuration files (e.g., database connection)
 ├── models/          # Data models (e.g., Gig model)
 ├── routes/          # Express routes (API endpoints)
