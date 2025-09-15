@@ -7,13 +7,13 @@ CodeGig allows users to post, browse, and manage coding gigs.
 
 ## 📂 Project Structure
 
-├── config/          # Configuration files (e.g., database connection)
-├── models/          # Data models (e.g., Gig model)
-├── routes/          # Express routes (API endpoints)
-├── views/           # Handlebars templates for UI
-├── public/          # Static files (CSS, JS, images)
-├── app.js           # Main application entry point
-├── package.json     # Project metadata & dependencies
+- config/          # Configuration files (e.g., database connection)
+- models/          # Data models (e.g., Gig model)
+- routes/          # Express routes (API endpoints)
+- views/           # Handlebars templates for UI
+- public/          # Static files (CSS, JS, images)
+- app.js           # Main application entry point
+- package.json     # Project metadata & dependencies
 
 ---
 
